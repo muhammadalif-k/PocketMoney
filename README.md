@@ -1,4 +1,4 @@
-# i_rich
+# My Pocket Money
 
 A new Flutter project.
 
